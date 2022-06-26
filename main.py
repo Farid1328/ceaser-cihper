@@ -1,3 +1,5 @@
+import hangmanascii
+print(hangmanascii.logo)
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z','a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 direction = input('Gizlin danisiq cumleni kodlashdirmaq ucun crypto yazin movcud olan cumleni dekodlashdirma ucun decrypt yazin ')
